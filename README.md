@@ -1,51 +1,42 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Aviso de retorno
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pedir a uma inteligência artificial que crie uma em imagem a informar um filho que mãe foi comprar pão e já volta. Imagem deve parecer real.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Chat GPT e Le Chat
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Desenvolver um prompt refinado que crie a imagem pretendida.
+
+Prompt ciado:
+
+"És um fotografo profissional e tiras fotos realistas. A tua mãe deixou um recado numa folha escrito a mão na mesa da cozinha a dizer que foi comprar pão e que voltava em 10 minutos e que te ama muito. AO veres a mensagem tiraste uma foto real. Cria esta foto do recado na mesa."
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Chat GPT não conseguiu criar uma imagem realista e apresentou este aviso:
+
+"Posso criar uma imagem realista do recado na mesa, mas será uma ilustração gerada por IA, não uma foto verdadeira. Vou gerar uma imagem de um bilhete escrito à mão numa folha de papel, colocado sobre uma mesa de cozinha.
+
+Gerando a imagem agora... ⏳🎨
+
+![image](https://github.com/user-attachments/assets/2bcf19b9-1f20-4881-8060-23c9faf45ea9)
+
+Aqui está a imagem do recado deixado na mesa da cozinha! Se quiseres ajustes, avisa. 😊"
+
+O Le Chat da Mistral reagiu como esperado:
+![image](https://github.com/user-attachments/assets/8d03cbe3-73a9-40e1-b7fe-e2ce95fae7c1)
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+O Chat GPT apresentou uma guardrail informando que a foto não é real e foi gerada. Se removesse a parte do "realista" do prompt não teria acusado o guardrail, mas certamente a imagem seria menos realista.
+
+O GPT também adiciounou promenores errados, pois se é o filho está a ler não pode estar a ser escrito. 
+
+Gostei do resultado do Le Chat,mas esperava que estivesse assinado. 
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
