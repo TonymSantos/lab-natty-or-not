@@ -22,13 +22,13 @@ O Chat GPT não conseguiu criar uma imagem realista e apresentou este aviso:
 "Posso criar uma imagem realista do recado na mesa, mas será uma ilustração gerada por IA, não uma foto verdadeira. Vou gerar uma imagem de um bilhete escrito à mão numa folha de papel, colocado sobre uma mesa de cozinha.
 
 Gerando a imagem agora... ⏳🎨
+![Capturar](https://github.com/user-attachments/assets/59501024-6916-47a0-9e6e-95a50a78d251)
 
-![image](https://github.com/user-attachments/assets/2bcf19b9-1f20-4881-8060-23c9faf45ea9)
 
 Aqui está a imagem do recado deixado na mesa da cozinha! Se quiseres ajustes, avisa. 😊"
 
 O Le Chat da Mistral reagiu como esperado:
-![image](https://github.com/user-attachments/assets/8d03cbe3-73a9-40e1-b7fe-e2ce95fae7c1)
+![c027ac6e-b76e-4efd-b2a5-462c3d2a78f6](https://github.com/user-attachments/assets/744b816d-c87b-426e-a2c2-6ac354df0778)
 
 
 
